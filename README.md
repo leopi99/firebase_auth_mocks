@@ -1,3 +1,5 @@
+Fork of firebase_auth_mocks, compatible with the latest version 1.0.1
+
 Mocks for [Firebase Auth](https://pub.dev/packages/firebase_auth). Use this package with [google_sign_in_mocks](https://pub.dev/packages/google_sign_in_mocks) to write unit tests involving Firebase Authentication.
 
 ## Usage
